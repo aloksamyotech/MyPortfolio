@@ -11,7 +11,22 @@ const Contact = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Contact
           </p>
-          <p className="py-6">Submit the form below to get in touch with me</p>
+          <p className="py-6">
+            <span>
+              Email - <a href="dfddf  ">Alokchaturvedi0145@gmail.com</a>{" "}
+            </span>
+            <br />
+            <span>
+              Phone - <a href="dfddf  ">+91 7354540145</a>{" "}
+            </span>
+            <br />
+            <br />
+
+            <sapn className="mt-5">
+              {" "}
+              Submit the form below to get in touch with me
+            </sapn>
+          </p>
         </div>
 
         <div className=" flex justify-center items-center">
