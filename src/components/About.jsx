@@ -13,24 +13,30 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
-        </p>
+        <p className="text-xl mt-20"></p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          I am a highly skilled and experienced full stack developer with a
+          passion for creating innovative and efficient solutions. With a strong
+          background in web development, I possess expertise in both front-end
+          and back-end technologies, including HTML, CSS, JavaScript, Reactjs,
+          Nextjs , Nodejs , Expressjs , Nestjs and databases. From
+          conceptualization to deployment, I excel in handling the entire
+          development lifecycle. I am experienced in working with frameworks
+          such as React, Angular, Django, and Node.js. My attention to detail
+          ensures that my code is clean, scalable, and maintainable.
+        </p>
+        <p className="text-xl">
+          I am a self-motivated professional who takes ownership of projects and
+          delivers results. Continuously staying updated with the latest
+          industry trends and technologies, I strive to deliver cutting-edge
+          solutions. With strong communication skills and the ability to work in
+          fast-paced environments, I am adept at collaborating with
+          cross-functional teams. I am passionate about continuous learning and
+          enjoy exploring new technologies and frameworks to further enhance my
+          skills.
         </p>
       </div>
     </div>
