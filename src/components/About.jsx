@@ -23,20 +23,14 @@ const About = () => {
           background in web development, I possess expertise in both front-end
           and back-end technologies, including HTML, CSS, JavaScript, Reactjs,
           Nextjs , Nodejs , Expressjs , Nestjs and databases. From
-          conceptualization to deployment, I excel in handling the entire
-          development lifecycle. I am experienced in working with frameworks
-          such as React, Angular, Django, and Node.js. My attention to detail
-          ensures that my code is clean, scalable, and maintainable.
+          conceptualization to deployment, My attention to detail ensures that
+          my code is clean, scalable, and maintainable.
         </p>
         <p className="text-xl">
           I am a self-motivated professional who takes ownership of projects and
-          delivers results. Continuously staying updated with the latest
-          industry trends and technologies, I strive to deliver cutting-edge
-          solutions. With strong communication skills and the ability to work in
-          fast-paced environments, I am adept at collaborating with
-          cross-functional teams. I am passionate about continuous learning and
-          enjoy exploring new technologies and frameworks to further enhance my
-          skills.
+          delivers results. I am adept at collaborating with cross-functional
+          teams. I am passionate about continuous learning and enjoy exploring
+          new technologies and frameworks to further enhance my skills.
         </p>
       </div>
     </div>
