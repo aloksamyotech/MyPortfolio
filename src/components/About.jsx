@@ -13,8 +13,6 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20"></p>
-
         <br />
 
         <p className="text-xl">
