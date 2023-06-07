@@ -6,13 +6,13 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 const SocialLinks = () => {
   const links = [
     {
-      id: 1,
+      id: 1,            
       child: (
         <>
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://getform.io/f/13ffbe1c-bf86-47c6-be95-0d93df22ad5a",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/theyashpatel",
+      href: "https://github.com/alok0466",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:foo@gmail.com",
+      href: "alokchaturvedi0145@gmail.com",
     },
     {
       id: 4,
